@@ -1,6 +1,6 @@
 {
-  "version": "0.7.2",
-  "notes": "修正：\n- 備份失敗的問題\n- 「檢查更新」在手機網路下可能誤報「已是最新版本」\n\n建議更新後點一次「立即備份」確認正常。",
-  "apk_url": "https://github.com/rene26354367-bot/baby-record-releases/releases/download/v0.7.2/baby_record_v0.7.2.apk",
-  "apk_size": 67901355
+  "version": "0.7.3",
+  "notes": "修正：「檢查更新」必定失敗的問題（正式版漏掉網路權限，非伺服器問題）。這版之後 App 內更新應可穩定運作。",
+  "apk_url": "https://github.com/rene26354367-bot/baby-record-releases/releases/download/v0.7.3/baby_record_v0.7.3.apk",
+  "apk_size": 67901383
 }
