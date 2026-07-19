@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
-  "notes": "重大更新：家人分享 🎉\n\n- 用 6 位好友碼互加家人\n- 把記錄（照片/文字/語音）傳給另一半，收到的自動歸到原本日期\n- 「來自媽媽/爸爸」標記、防重複收取\n- 批次傳送 + 全選未傳送\n\n開始使用：設定 → 家人分享 → 註冊帳號 → 交換好友碼",
-  "apk_url": "https://github.com/rene26354367-bot/baby-record-releases/releases/download/v0.8.0/baby_record_v0.8.0.apk",
-  "apk_size": 70300926
+  "version": "0.9.0",
+  "notes": "家人分享完整版 🎁\n\n- 里程碑（含照片/語音）與成長測量也能傳給家人了\n- 傳送畫面分三區：記錄/里程碑/測量，統一勾選\n- 未分享提醒：累積 3 項未傳會在首頁提示\n- PDF 紀念冊標註「由媽媽/爸爸記錄」，雙視角紀念冊",
+  "apk_url": "https://github.com/rene26354367-bot/baby-record-releases/releases/download/v0.9.0/baby_record_v0.9.0.apk",
+  "apk_size": 70333694
 }
