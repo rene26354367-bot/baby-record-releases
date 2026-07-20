@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
-  "notes": "家人分享完整版 🎁\n\n- 里程碑（含照片/語音）與成長測量也能傳給家人了\n- 傳送畫面分三區：記錄/里程碑/測量，統一勾選\n- 未分享提醒：累積 3 項未傳會在首頁提示\n- PDF 紀念冊標註「由媽媽/爸爸記錄」，雙視角紀念冊",
-  "apk_url": "https://github.com/rene26354367-bot/baby-record-releases/releases/download/v0.9.0/baby_record_v0.9.0.apk",
-  "apk_size": 70333694
+  "version": "0.9.1",
+  "notes": "重要修正：更新後卡在啟動轉圈的問題\n\n從較舊版本一次更新到 v0.9.0 可能會卡在開啟時的載入畫面，已修正。你的記錄沒有遺失。\n\n若目前卡在轉圈畫面，請手動下載此 APK 安裝。",
+  "apk_url": "https://github.com/rene26354367-bot/baby-record-releases/releases/download/v0.9.1/baby_record_v0.9.1.apk",
+  "apk_size": 70334002
 }
